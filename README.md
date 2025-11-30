@@ -1,6 +1,7 @@
 ## Hello!! I Am Késsya Cavalcanti
 
-
+- ❤️ I am a student of systems analysis and development
+- 😄 I love learning new things
 - 🌱 I’m currently learning Python and Java 💻
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I really love cats, I got two ❤️😺😺
