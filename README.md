@@ -7,9 +7,9 @@
 
 <h2> ✨ Redes Sociais</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A9ssya-cavalcanti-021a59220/)
-
-
+<a href="https://www.linkedin.com/in/k%C3%A9ssya-cavalcanti-021a59220/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <h2> ✨ Meus objetivos</h2>
 <p><em>Sou apaixonada pela <strong>excelência</strong> em tudo o que faço e levo essa <strong>dedicação</strong> para cada <strong>linha de código</strong> e cada assunto estudado. 
