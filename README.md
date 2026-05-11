@@ -5,6 +5,10 @@
 <li>Uso a criatividade e a curiosidade a meu favor.</li>
 </ul>
 
+<h2> ✨ Redes Sociais</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/k%C3%A9ssya-cavalcanti-021a59220/)
+
+
 <h2> ✨ Meus objetivos</h2>
 <p><em>Sou apaixonada pela <strong>excelência</strong> em tudo o que faço e levo essa <strong>dedicação</strong> para cada <strong>linha de código</strong> e cada assunto estudado. 
 Busco constantemente <strong>conhecimentos e experiências na área de TI</strong>, pois almejo consolidar minha carreira e construir um <strong>futuro sólido e próspero.</strong>
