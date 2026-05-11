@@ -6,7 +6,9 @@
 </ul>
 
 <h2> ✨ Redes Sociais</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/k%C3%A9ssya-cavalcanti-021a59220/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A9ssya-cavalcanti-021a59220/)
+
 
 
 <h2> ✨ Meus objetivos</h2>
